@@ -1,0 +1,1061 @@
+{
+  "modules": {
+    "gui move": {
+      "bind": 0,
+      "state": true,
+      "Обход": "Grim",
+      "PolarNew(Funtime)": false
+    },
+    "elytra booster": {
+      "bind": 0,
+      "state": true,
+      "Мод": "Default",
+      "Скорость буста": 2.28
+    },
+    "water speed": {
+      "bind": 0,
+      "state": false
+    },
+    "target strafe": {
+      "bind": 0,
+      "state": false,
+      "Дистанция": 1.0,
+      "Перегонять?": true,
+      "Значение перегона": 0.5,
+      "Скорость": 0.0,
+      "Авто прыжок": true,
+      "Сохранять цель": true,
+      "Буст с дамагом": true,
+      "Время буста": 10.0
+    },
+    "client brand": {
+      "bind": 0,
+      "state": true,
+      "Бренд": "labymod",
+      "Кастомный ник": "AEGIS CLIENT"
+    },
+    "elytra recast": {
+      "bind": 0,
+      "state": false,
+      "Elytra Mode": "Matrix"
+    },
+    "move modules": {
+      "bind": 0,
+      "state": true,
+      "DragonFly": true,
+      "NoSlow": false,
+      "NoSlow Mode": "Grim New",
+      "NoWeb": false,
+      "NoWeb Mode": "Motion",
+      "Сила прыжка": 0.0,
+      "Скорость": 1.0,
+      "LevitationControl": false,
+      "LC Mode": "Control",
+      "Скорость вверх": 1.0,
+      "Скорость вниз": 1.0
+    },
+    "cat strafe": {
+      "bind": 0,
+      "state": false,
+      "Тип": "Grim",
+      "Cкорость буста": 0.3,
+      "Безопасный режим": true,
+      "Авто прыжок": false
+    },
+    "auto crystall": {
+      "bind": 0,
+      "state": false,
+      "Опции": {
+        "Не взрывать себя": true,
+        "Коррекция движения": true
+      },
+      "Задержка": 5.0
+    },
+    "sprint": {
+      "bind": 0,
+      "state": true,
+      "Сохранять спринт": true
+    },
+    "long jump": {
+      "bind": 0,
+      "state": false,
+      "Мод": "Slap"
+    },
+    "no rotate": {
+      "bind": 0,
+      "state": false
+    },
+    "item cooldowns": {
+      "bind": 0,
+      "state": false,
+      "Предметы": {
+        "Геплы": true,
+        "Перки": true,
+        "Хорусы": true,
+        "Чарки": false
+      },
+      "Кулдаун гепла": 4.5,
+      "Кулдаун перок": 14.05,
+      "Кулдаун хорусов": 2.3,
+      "Кулдаун чарок": 4.5,
+      "Только в PVP": true
+    },
+    "nо entity trаce": {
+      "bind": 0,
+      "state": false
+    },
+    "auto item pilot": {
+      "bind": 74,
+      "state": false,
+      "Идти": {
+        "На шары": true,
+        "На чарки": true,
+        "На элитры": true,
+        "На яйца призыва": true
+      },
+      "Режим ротации": "Обычная"
+    },
+    "free саm": {
+      "bind": 71,
+      "state": false,
+      "Скорость по XZ": 1.0,
+      "Скорость по Y": 0.5
+    },
+    "kt leave": {
+      "bind": 0,
+      "state": false,
+      "Способ телепорта": "Packet"
+    },
+    "ambience": {
+      "bind": 0,
+      "state": false,
+      "Опции": {
+        "Маленький игрок": false,
+        "Визуальный скин": true,
+        "Изменять цвет неба": false,
+        "Кастомный туман": false,
+        "Своя дистанция тумана": false,
+        "Физика предметов": true,
+        "Время": true
+      },
+      "Дистация тумана": 0.4,
+      "Текстура": "Boy3",
+      "Время": "Ночь",
+      "Вид": "Клиент",
+      "Цвет тумана": -1
+    },
+    "cat fly": {
+      "bind": 0,
+      "state": false,
+      "Мод": "CatFly Mode",
+      "Скорость XZ": 1.2,
+      "Скорость Y": 0.2,
+      "Авто прыжок": false,
+      "Спасать": false,
+      "Таймер фейерверка": 400.0,
+      "Обход Grim": true
+    },
+    "music player": {
+      "bind": 0,
+      "state": false,
+      "Кнопка открытия": -1
+    },
+    "scaffold": {
+      "bind": 0,
+      "state": false,
+      "Проверка луча": false,
+      "Коррекция движения": true,
+      "Режим": "Обычный",
+      "Автопрыжок": true
+    },
+    "air jump": {
+      "bind": 0,
+      "state": false,
+      "Обход": "Matrix"
+    },
+    "auto рotion": {
+      "bind": 0,
+      "state": false,
+      "обход IntaveAC": true
+    },
+    "attack аura": {
+      "bind": 82,
+      "state": true,
+      "Режим": "HvH/Grim",
+      "Heuristic fix": false,
+      "Крутиться?": false,
+      "Рисовать круг?": true,
+      "Плавность XZ": 6.0,
+      "Плавность Y": 6.0,
+      "Позиция по Y": 1.0,
+      "Режим ротации": "Снапы",
+      "Тики удара": 3.0,
+      "Что делать после удара": "Отводить",
+      "Режим коррекции движения": "Удерживание",
+      "Возвращать": "Плавно",
+      "Плавность": 0.295,
+      "ElytraTarget": false,
+      "Дистанция элитры": 59.0,
+      "Значение перелёта": 2.5,
+      "Изменять pitch": false,
+      "Макс. наклон головы": 90.0,
+      "Место наводки": "На голову",
+      "Режим наводки": "Серверная",
+      "Дистанция наводки": 1.5,
+      "Дистанция атаки": 3.0,
+      "Режим пвп": "1.9",
+      "Минимум. CPS": 7.0,
+      "Максимум. CPS": 10.0,
+      "Режим критов": "None",
+      "Умные криты": false,
+      "Таргеты": {
+        "Игроки": true,
+        "Голые": true,
+        "Мобы": false,
+        "Животные": false,
+        "Друзья": false,
+        "Голые невидимки": true,
+        "Невидимки": true
+      },
+      "Учитывать": {
+        "Хп": true,
+        "Броню": true,
+        "Дистанцию": true,
+        "Баффы": true
+      },
+      "Опции": {
+        "Выбор наводки": true,
+        "Только криты": true,
+        "Сортировать целей": true,
+        "Режимы критов": false,
+        "Ломать щит": true,
+        "Отжимать щит": true,
+        "Синхронизировать TPS": false,
+        "Фокусировать одну цель": true,
+        "Коррекция движения": true,
+        "Оптимальная дистанция": false,
+        "Резольвер": true
+      },
+      "Дополнительное": {
+        "Проверка луча": true,
+        "Перегонять противника": false,
+        "Бить через стены": false,
+        "Рандомизация": false,
+        "Авто прыжок": false,
+        "Не бить если кушаешь": true,
+        "Не бить если в гуи": false
+      }
+    },
+    "chаt неlpеr": {
+      "bind": 0,
+      "state": false,
+      "Авто логин": true,
+      "Пароль": "tryhackmecom1337",
+      "Кастомный пароль": "123123123qwe",
+      "Авто текст": false,
+      "Кнопка": -1,
+      "Текст": "Корды",
+      "Кастомный текст": "жди сват",
+      "Писать в глобал": true,
+      "Cпаммер": false,
+      "Задержка в секундах": 5.0,
+      "Эмодзи": true
+    },
+    "bow spammer": {
+      "bind": 0,
+      "state": false,
+      "Задержка": 1.5
+    },
+    "auto gаpple": {
+      "bind": 0,
+      "state": false,
+      "Здоровье": 16.0,
+      "Съесть в начале": true
+    },
+    "click friend": {
+      "bind": 0,
+      "state": false,
+      "Кнопка": -98
+    },
+    "auc helper": {
+      "bind": 0,
+      "state": false,
+      "Подсвечивать слоты": true
+    },
+    "anti target": {
+      "bind": 0,
+      "state": false
+    },
+    "boat fly": {
+      "bind": 0,
+      "state": false,
+      "Скорость": 10.0,
+      "Не вылезать": true
+    },
+    "no bad effects": {
+      "bind": 0,
+      "state": false,
+      "Плавное падение": true,
+      "Левитация": true,
+      "Прыгучесть": true
+    },
+    "no friend damage": {
+      "bind": 0,
+      "state": true
+    },
+    "see invisible": {
+      "bind": 0,
+      "state": false,
+      "Обновление": true
+    },
+    "нitbох": {
+      "bind": 0,
+      "state": false,
+      "Размер": 0.2,
+      "Видимые": false
+    },
+    "cliеnt sound": {
+      "bind": 0,
+      "state": false,
+      "ModuleSounds": true,
+      "Тип": "Windows",
+      "Громкость": 85.0,
+      "HitSounds": false,
+      "Звук": "bell",
+      "Громкость Удара": 35.0
+    },
+    "auto totem": {
+      "bind": 0,
+      "state": false,
+      "Мод": "Обычный",
+      "Здоровье": 3.5,
+      "Возвращать предмет": true,
+      "Сохранять талисманы": true,
+      "Не брать если шар": false,
+      "Брать в элитре": true,
+      "Здоровье в элитре": 7.0,
+      "Учитывать": {
+        "Золотые сердца": true,
+        "Кристаллы": true,
+        "Якорь": false,
+        "Падение": true
+      }
+    },
+    "name protect": {
+      "bind": 0,
+      "state": false,
+      "Скрыть Друзей": false
+    },
+    "back track": {
+      "bind": 0,
+      "state": false,
+      "Сбросить": 0,
+      "Дистанция": 3.0,
+      "Задержка": 500.0
+    },
+    "inventory plus": {
+      "bind": 0,
+      "state": true,
+      "XCarry": false,
+      "ItemScroller": true,
+      "AutoArmor": false,
+      "Задержка": 100.0,
+      "Только в инве": false,
+      "Работать в движении": true
+    },
+    "click pearl": {
+      "bind": 0,
+      "state": true,
+      "Тип": "Обычный",
+      "Кнопка": -96
+    },
+    "ac debbuger": {
+      "bind": 0,
+      "state": false,
+      "AcDetector": true,
+      "Что Показывать": {
+        "Транзакции": true,
+        "Флаги ач": true,
+        "Велосити": false
+      }
+    },
+    "death effect": {
+      "bind": 0,
+      "state": false,
+      "Только на игроков": true
+    },
+    "chеst stеаlеr": {
+      "bind": 0,
+      "state": false,
+      "Задержка": 100.0
+    },
+    "aim assist": {
+      "bind": 0,
+      "state": false,
+      "Дистанция наводки": 4.7,
+      "Сила": 3.0,
+      "Плавность": 0.2,
+      "Скорость Yaw": 114.0,
+      "Скорость Pitch": 124.0,
+      "Фильтр на": {
+        "Игроков": true,
+        "Мобов": false,
+        "Животных": false,
+        "Жителей": false,
+        "Друзей": true,
+        "Невидимых": true,
+        "Голых": true
+      },
+      "Сортировать по": "Здоровью",
+      "Ускорять ротацию": false,
+      "Фокусировать одну цель": false,
+      "Ограничить Fov": true,
+      "Сбрасывать спринт": true,
+      "Фов": 90.0,
+      "Не бить если": {
+        "Открыт инвентарь": true,
+        "Используешь еду": true
+      }
+    },
+    "ping spoof": {
+      "bind": 0,
+      "state": false,
+      "Задержка": 1000.0
+    },
+    "click settings": {
+      "bind": 0,
+      "state": true,
+      "Режим спринта": "Rage",
+      "Режим удара": "Rage"
+    },
+    "player helper": {
+      "bind": 0,
+      "state": false,
+      "PortalGodMode": false,
+      "SrpSpoofer": false,
+      "LeaveTracker": true,
+      "SpeedMine": false,
+      "DeathPosition": false
+    },
+    "speed": {
+      "bind": 0,
+      "state": false,
+      "Обход": "Grim_AC",
+      "Скорость": 8.0,
+      "Auto Jump": false,
+      "BlockBoost": false,
+      "EntityBoost": false,
+      "Timer": true,
+      "DamageBoost": true,
+      "Motion": true,
+      "Strafe": false,
+      "AirBoost": false,
+      "YPort": true,
+      "BHop": false,
+      "Spoof": false,
+      "LongJump": false,
+      "OnGround": false,
+      "AntiFlag": true
+    },
+    "item swap": {
+      "bind": 0,
+      "state": false,
+      "Тип": "Умный",
+      "Предмет": "Щит",
+      "Свапать на": "Геплы",
+      "Кнопка": -1,
+      "Здоровье": 11.0
+    },
+    "spider": {
+      "bind": 0,
+      "state": false,
+      "Mode": "Grim",
+      "Второй обход": true,
+      "Скорость": 2.0
+    },
+    "wtap": {
+      "bind": 0,
+      "state": false
+    },
+    "strafe": {
+      "bind": 0,
+      "state": false,
+      "Обход": "Matrix Hard",
+      "Буст с элитрой": false,
+      "Скорость": 1.5,
+      "Буст с дамагом": false,
+      "Значение буста": 0.7,
+      "Только на земле": false,
+      "Прыгать": false,
+      "Направление": true
+    },
+    "discord rpc": {
+      "bind": 0,
+      "state": true
+    },
+    "view model": {
+      "bind": 0,
+      "state": false,
+      "SwingAnim": true,
+      "Мод": "Smooth",
+      "Сила": 7.15,
+      "Скорость": 7.0,
+      "Вращение с аурой": false,
+      "Режим при вкл ауре": "Smooth",
+      "Размер": 1.0,
+      "Только с Аttаck-Аurа": false,
+      "YP": 90.0,
+      "ZP": -60.0,
+      "XP": -90.0,
+      "Общее значение": false,
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "RightX": 0.5,
+      "RightY": -0.2,
+      "RightZ": -0.7,
+      "LeftX": 0.0,
+      "LeftY": 0.0,
+      "LeftZ": 0.0
+    },
+    "storage esp": {
+      "bind": 0,
+      "state": false,
+      "Chest": true,
+      "ChestColor": -807854,
+      "TrappedChest": true,
+      "TrappedChestColor": -7377602,
+      "Barrel": true,
+      "BarrelColor": -335554,
+      "Hopper": true,
+      "HopperColor": -12678662,
+      "Dispenser": true,
+      "DispenserColor": -14991110,
+      "Dropper": true,
+      "DropperColor": -16771073,
+      "Furnace": true,
+      "FurnaceColor": -9211021,
+      "EnderChest": true,
+      "EnderChestColor": -11390482,
+      "ShulkerBox": true,
+      "ShulkerBoxColor": -623749,
+      "MobSpawner": true,
+      "MobSpawnerColor": -9376602,
+      "MineCart": true,
+      "MineCartColor": -1
+    },
+    "un hook": {
+      "bind": 0,
+      "state": false
+    },
+    "jump circle": {
+      "bind": 0,
+      "state": true,
+      "Размер": 2.0,
+      "Время жизни": 3.0
+    },
+    "elytra helper": {
+      "bind": 0,
+      "state": true,
+      "Кнопка свапа": 72,
+      "Кнопка феерверков": 86,
+      "Авто феерверк": false,
+      "Таймер феера": 470.0,
+      "Авто взлёт": true,
+      "Не использовать в PVP": false
+    },
+    "aspect ratio": {
+      "bind": 0,
+      "state": false,
+      "Ширина": 1.0
+    },
+    "timer": {
+      "bind": 0,
+      "state": false,
+      "Скорость": 2.0
+    },
+    "super bow": {
+      "bind": 0,
+      "state": false,
+      "Сила": 40.0
+    },
+    "jesus": {
+      "bind": 0,
+      "state": false,
+      "Мод": "Matrix Solid",
+      "Скорость": 10.0,
+      "Не прыгать": false,
+      "Новый Matrix": true
+    },
+    "no velocity": {
+      "bind": 0,
+      "state": false,
+      "Mode": "Cancel"
+    },
+    "pearl prediction": {
+      "bind": 0,
+      "state": false
+    },
+    "attack воt": {
+      "bind": 0,
+      "state": false,
+      "Только криты": true,
+      "Умные криты": true,
+      "Игроки": true,
+      "Мобы": false,
+      "Животные": false,
+      "Ломать щит": true,
+      "TPSSync": false
+    },
+    "tape mouse": {
+      "bind": 0,
+      "state": false,
+      "Тип": "Левая кнопка",
+      "Задержка": 1.0
+    },
+    "shader esp": {
+      "bind": 0,
+      "state": false,
+      "Глоу": true,
+      "Сила": 6.0,
+      "Обводка": 1.0
+    },
+    "hit bubbles": {
+      "bind": 0,
+      "state": false
+    },
+    "fake player": {
+      "bind": 0,
+      "state": false,
+      "Изменять ник": false,
+      "Ник бота": "Хуесос",
+      "Кастомный ник": "Абаюдна"
+    },
+    "anti aim": {
+      "bind": 0,
+      "state": false,
+      "Менять хитбокс": false,
+      "БрутФорс": true,
+      "АнтиАимы": true,
+      "Менять Yaw": "Jitter",
+      "Менять Pitch": "Defense",
+      "Zero pitch on land": false,
+      "Угол Yaw": 60.0,
+      "Угол Pitch": 65.0,
+      "Отображать у всех": false
+    },
+    "autо асtiоns": {
+      "bind": 0,
+      "state": true,
+      "Действия": {
+        "AutoTPAccept": true,
+        "AutoFish": false,
+        "AutoTool": false,
+        "AutoRespawn": true
+      },
+      "Только друзья": true
+    },
+    "xray": {
+      "bind": 0,
+      "state": false,
+      "Радиус": 21.0,
+      "Скорость обновления": 7.9,
+      "Искать": {
+        "Алмазы": false,
+        "Адское Золото": false,
+        "Золото": false,
+        "Железо": false,
+        "Лазурит": false,
+        "Незерит": false,
+        "Редстоун": false,
+        "Уголь": false,
+        "Эмеральды": false,
+        "Блок Алмаза": false,
+        "Блок Эмеральда": false,
+        "Блок Золота": false,
+        "Блок Железа": false,
+        "Блок Лазурита": false,
+        "Блок Незерита": false,
+        "Блок Редстоуна": false,
+        "Блок Угля": false
+      }
+    },
+    "target esp": {
+      "bind": 0,
+      "state": true,
+      "Мод": "Старый",
+      "Режим цвета": "Новый",
+      "Анимация": "Статичный",
+      "Позиция рендера": "Торс"
+    },
+    "criticаls": {
+      "bind": 0,
+      "state": false,
+      "Обход": "NCP"
+    },
+    "no render": {
+      "bind": 0,
+      "state": true,
+      "Удалять": {
+        "Огонь на экране": true,
+        "Линия босса": false,
+        "Анимация тотема": true,
+        "Тайтлы": false,
+        "Таблица": false,
+        "Туман": true,
+        "Тряску камеры": true,
+        "Плохие эффекты": true,
+        "Дождь": true,
+        "Броня": false,
+        "Плащ": false,
+        "Эффект свечения": true,
+        "Эффект воды": true,
+        "Партиклы": false
+      }
+    },
+    "autо lеаvе": {
+      "bind": 0,
+      "state": false,
+      "Действие": "Kick",
+      "Дистанция": 50.0
+    },
+    "no interact": {
+      "bind": 0,
+      "state": false,
+      "Обьекты": {
+        "Стойки": true,
+        "Сундуки": true,
+        "Двери": true,
+        "Кнопки": true,
+        "Воронки": true,
+        "Раздатчики": true,
+        "Нотные блоки": true,
+        "Верстаки": true,
+        "Люки": true,
+        "Печки": true,
+        "Калитки": true,
+        "Наковальни": true,
+        "Рычаги": true
+      },
+      "Все блоки": false
+    },
+    "wall hack": {
+      "bind": 0,
+      "state": false
+    },
+    "anti воt": {
+      "bind": 0,
+      "state": false,
+      "Matrix обход": true
+    },
+    "hw helper": {
+      "bind": 0,
+      "state": false,
+      "Тип": {
+        "Использование по бинду": true
+      },
+      "Кнопка стана": -1,
+      "Кнопка пузыря опыта": -1,
+      "Кнопка взрывной трапки": -1,
+      "Кнопка взрывной палочки": -1,
+      "Кнопка молочного зелья": -1
+    },
+    "free look": {
+      "bind": 0,
+      "state": false,
+      "Auto F5": true
+    },
+    "beautifully": {
+      "bind": 0,
+      "state": true,
+      "Живой инвентарь": false,
+      "Улучшенный таб": true,
+      "Улучшенный чат": true,
+      "Плавная камера": true,
+      "Настройки камеры": true,
+      "Плавный таб": true,
+      "Плавный чат": true,
+      "Оптимизировать": false,
+      "Дистанция камеры": 4.0,
+      "Позиция камеры": 0.0,
+      "Высота камеры": 0.0
+    },
+    "rw helper": {
+      "bind": 0,
+      "state": false,
+      "Функции": {
+        "Блокировать запретки": true,
+        "Закрывать меню": true,
+        "Авто точка": true,
+        "Уведомления": true
+      }
+    },
+    "sex аurа": {
+      "bind": 0,
+      "state": false
+    },
+    "crosshair": {
+      "bind": 0,
+      "state": false,
+      "Вид": "Круг",
+      "Статический": false,
+      "Зазор": 2.6,
+      "Сила расширения": 4.7,
+      "Длина": 3.0,
+      "Ширина": 0.5,
+      "Точка в центре?": "Да"
+    },
+    "china hat": {
+      "bind": 0,
+      "state": true
+    },
+    "auto farm": {
+      "bind": 0,
+      "state": false,
+      "Задержка кликов (в тиках)": 3.0,
+      "Использовать муку": true
+    },
+    "full bright": {
+      "bind": 0,
+      "state": false,
+      "Мод": "Gamma",
+      "Динамический": false,
+      "Яркость": 2.5
+    },
+    "rw joiner": {
+      "bind": 0,
+      "state": false,
+      "Номер грифа": 1.0
+    },
+    "tnt timer": {
+      "bind": 0,
+      "state": false
+    },
+    "round trails": {
+      "bind": 0,
+      "state": false,
+      "Длина": 1500.0,
+      "Отображать всегда": false
+    },
+    "anti crash": {
+      "bind": 0,
+      "state": true,
+      "Alice": true,
+      "HolyWorld": true
+    },
+    "particles": {
+      "bind": 0,
+      "state": true,
+      "Текстура": "Звезды",
+      "Триггер": {
+        "Удар": true,
+        "Ходьба": false,
+        "Бросаемый предмет": false,
+        "Прыжок": false
+      },
+      "Количество при атаке": 50.0,
+      "Количество при ходьбе": 3.0,
+      "Рандомный цвет": false,
+      "Размер": 0.16,
+      "Скорость": 0.17,
+      "Время жизни": 27.0
+    },
+    "flight": {
+      "bind": 0,
+      "state": false,
+      "Мод": "Vanilla",
+      "По горизонтали": 1.0,
+      "По вертикали": 0.5,
+      "Дергать Y": false,
+      "Опции": {
+        "Авто прыжок": false,
+        "Ротация": true
+      },
+      "Тип скорости": "Vanilla",
+      "Скорость Vanilla": 1.0,
+      "Скорость Motion": 0.3,
+      "Вверх": true,
+      "Вниз": true,
+      "Поднимать": true,
+      "Плавная скорость": true,
+      "Vanilla DDDSLB": true
+    },
+    "click gui": {
+      "bind": 0,
+      "state": false,
+      "Режим гуи": "Старый",
+      "Кнопка открытия": 344,
+      "Градиент": false,
+      "Размыть": true,
+      "Сила размытия": 4.0,
+      "Скролл": true
+    },
+    "blink": {
+      "bind": 0,
+      "state": false,
+      "Пульс": false,
+      "Задержка": 100.0
+    },
+    "ft helper": {
+      "bind": 0,
+      "state": false,
+      "Кнопка дезорентации": -1,
+      "Кнопка трапки": -1,
+      "Кнопка смерча": -1,
+      "Кнопка явной пыли": -1,
+      "Кнопка серки": -1,
+      "Кнопка арбалета": -1,
+      "Кнопка отрыжки": -1,
+      "Кнопка пласта": -1,
+      "Кнопка шалкера": -1
+    },
+    "autо sort": {
+      "bind": 0,
+      "state": false,
+      "Только при Alt": false,
+      "Задержка выбрасывания": 100.0,
+      "Выкидывать броню": false
+    },
+    "no delay": {
+      "bind": 0,
+      "state": true,
+      "Убрать задержку на": {
+        "Установка блоков": false,
+        "Ломание": false,
+        "Прыжок": true
+      }
+    },
+    "nо рush": {
+      "bind": 0,
+      "state": true,
+      "Тип": {
+        "Игроки": true,
+        "Вода": false,
+        "Взрывы": false,
+        "Блоки": true
+      }
+    },
+    "tracers": {
+      "bind": 0,
+      "state": false,
+      "Отображать": {
+        "Игроки": true,
+        "Предметы": false,
+        "Мобы": false
+      }
+    },
+    "arrows": {
+      "bind": 0,
+      "state": false,
+      "Отображать": {
+        "Игроки": true,
+        "Предметы": false,
+        "Мобы": false
+      },
+      "Выбор цвета игроков": "Client",
+      "Выбор цвета мобов": "Custom",
+      "Выбор цвета друзей": "Custom",
+      "Выбор цветов предметов": "Custom",
+      "Цвет игроков": -1,
+      "Цвет мобов": -1,
+      "Цвет друзей": -10551483,
+      "Цвет предметов": -47035
+    },
+    "auto duеl": {
+      "bind": 0,
+      "state": false,
+      "Mode": "Шары"
+    },
+    "disаblеr": {
+      "bind": 0,
+      "state": false,
+      "MatrixElySpoofs": false,
+      "NCPMovement": false,
+      "VulcanStrafe": true,
+      "VerusCombat": true,
+      "KauriAC": false
+    },
+    "fast experience": {
+      "bind": 0,
+      "state": false
+    },
+    "bad trip": {
+      "bind": 0,
+      "state": false,
+      "Громкость звука": 35.0
+    },
+    "world particle": {
+      "bind": 0,
+      "state": false,
+      "Режим": "Простой",
+      "Количество": 100.0,
+      "Текстура": "Орбизы",
+      "Рандомный цвет": false
+    },
+    "srp spoof": {
+      "bind": 0,
+      "state": false
+    },
+    "auto fix": {
+      "bind": 0,
+      "state": false,
+      "Тип починки": "Пузырьки",
+      "Команда для починки": "/fix all",
+      "Кнопка": -1,
+      "Задержка": 50.0
+    },
+    "trails": {
+      "bind": 0,
+      "state": true,
+      "Длина": 2.0
+    },
+    "nuker": {
+      "bind": 0,
+      "state": false,
+      "Режим": "Первый",
+      "Дистанция": 2.0
+    },
+    "hud": {
+      "bind": 0,
+      "state": true,
+      "Элементы": {
+        "Potion List": true,
+        "Staff List": true,
+        "Information": true,
+        "Totem Counter": true,
+        "Key Binds": true,
+        "Target HUD": true,
+        "Notifications": true,
+        "WaterMark": true,
+        "Hud-Armor": true
+      },
+      "Позиция Notifications": "По центру",
+      "Цвет худа": "Черный",
+      "Расцветка": "1 цвет",
+      "Прозрачность": "Полу прозрачный",
+      "Уровень прозрачности": 130.0,
+      "Настройки": {
+        "Координаты": true,
+        "ТПС": true,
+        "Скорость": true
+      },
+      "Режим таргетхуда": "В процентах",
+      "Режим эффектов": "Новый",
+      "Режим бэкграунда": "С бэкраундом"
+    },
+    "esp": {
+      "bind": 0,
+      "state": true,
+      "Отображать": {
+        "Себя": true,
+        "Игроки": true,
+        "Предметы": false,
+        "Мобы": false
+      },
+      "Убрать": {
+        "Боксы": true,
+        "Зачарования": true
+      }
+    }
+  }
+}
