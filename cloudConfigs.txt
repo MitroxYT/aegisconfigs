@@ -1,2 +1,2 @@
 cakeworld;hzeed;15.02.2025
-alice:ghosty:16.02.2025
+alice;ghosty;16.02.2025
